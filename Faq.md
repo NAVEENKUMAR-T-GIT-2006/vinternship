@@ -16,9 +16,7 @@ order: 2
 7. [ViBe Platform](#7-vibe-platform)
 8. [Cliq Channel](#8-cliq-channel)
 9. [MERN Case Studies](#9-mern-case-studies)
-10. [Ejection Policy](#10-Ejection-Policy).
-<!-- 10. [Health Points System](#10-health-points-system) -->
-<!-- 11. [Viva/PES (Endorsements)](#11-vivapes-endorsements) -->
+10. [Ejection Policy](#10-ejection-policy)
 
 ---
 
@@ -273,141 +271,14 @@ Case studies are **optional** and for extra knowledge. If you wish to explore th
 4. Open a code editor (for example, **VS Code**) and implement the tasks in a **single file**, unless specified otherwise.
 5. Optionally upload the file along with your details for each lesson using the provided submission link.
 
-<!--
-
-**9.3 How do I submit the case studies?**  
-
-1. Visit the submission form:  
-   https://forms.zohopublic.in/annamai1/form/MERNCASEStudyChallenge/formperma/vSrDY7Uw2l5mw7UIAUk2gh2SCOryplPMeU7IncHhSX0
-2. Fill in all required details carefully, including:
-   - First name and last name  
-   - Email ID associated with the program  
-   - Technology name and lesson number completed  
-3. Upload the file containing your solution  
-   (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
-4. Review your details and submit the form.
-5. Repeat this process for **each lesson** you complete.
-
-
-**9.4 What should I do if a lesson contains multiple files?**  
-For lessons (such as React) that involve **multiple files**, compress all related files into a **single ZIP file** and upload the ZIP file during submission.
-
-
-**9.5 Where can I get help if I am stuck with the case studies?**  
-If you are facing difficulties, feel free to:
-- Join the **breakout rooms** during Zoom sessions  
-- Collaborate and discuss solutions with your peers  
-
-This collaborative approach is encouraged to enhance learning and problem-solving skills.
-
-
-**9.6 Where can I view my submission status and access the leaderboard and dashboard?**  
-You can track your submission status, access the leaderboard, and view the dashboard by visiting the following link:  
-https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12PoI/edit?gid=2050387016#gid=2050387016
-
-
-
----
-
-## 10. Health Points System
-
-**10.1 What are health points?**  
-Health points are a scoring system used to track individual and class participation and engagement throughout the program.
-
-**10.2 How do I earn individual health points?**  
-You can earn individual health points by:
-- **Helping peers** on the Cliq channel
-- **Making progress** on the ViBe platform
-- Health points are awarded **once per day** for individuals
-
-**10.3 How do I lose individual health points?**  
-You lose health points for:
-- **Not having your camera on** during Zoom sessions
-- **Asking queries outside** the designated Cliq channel
-- **Replying to queries** outside the proper thread in the Cliq channel
-
-**10.4 What are class health points?**  
-Class health points are awarded to the **entire class** when the number of students attending Zoom meetings meets the **minimum threshold requirement**.
-
----
-
-## 11. Viva/PES (Endorsements)
-
-**11.1 How will the viva/evaluation process be conducted?**  
-Each participant is required to **select at least 5 evaluators (other participants)** who will evaluate their work, primarily based on their **case studies** solutions. Hence, make sure you are completed with all the Case studies before you evaluate someone or get evaluated yourself.
-
-**11.2 What is the role of the evaluators?**  
-The evaluators are expected to be **sincere** and give their **best effort** while evaluating the case studies.  
-The evaluation is mainly an **endorsement of learning**, not a formal grading process.
-
-**11.3 Will the evaluations be verified?**  
-Yes. The team will **randomly second-check** evaluated case studies.  
-If any **anomaly** is detected, the following actions may be taken:
-- Re-evaluation of the evaluated participant's case studies  
-- Re-evaluation of the evaluator’s own case studies  
-- Re-evaluation of all case studies previously evaluated by that evaluator  
-
-To avoid such an **anomaly cascade**, choose your evaluators carefully.
-
-**11.4 Can two participants evaluate each other?**  
-No. If **A evaluates B**, then **B cannot evaluate A**.
-
-**11.5 Can I choose evaluators from my own institute?**  
-Preferably, **no**.  
-Choosing evaluators from your own institute may raise a **first level of suspicion**. While this is **discouraged**, it is **not enforced as a strict rule**.
-
-**11.6 How many evaluators do I need?**  
-You need **exactly 5 evaluators to endorse you**.  
-If any selected person is unwilling to endorse you, you must **find a replacement**.  
-Overall, you must ensure that **at least 5 people endorse your learning**.
-
-**11.7 What does the endorsement involve?**  
-Your evaluators will fill out a **Google Form** stating that they **endorse your learning**.  
-- There is **no rating or scoring**
-- Evaluators may add **optional comments**
-- Endorsements will be submitted through a form that will be **displayed on the dashboard**
-
-**11.8 When should the evaluation be done?**  
-It is recommended to evaluate **only after completing all case studies** or once you are **confident in the concepts**.
-
-**11.9 Do we need to record our evaluation interactions?**  
-No. You only need to **interact and endorse** the person.  
-How you conduct the interaction is **entirely up to you**. No recordings are required.
-
-**11.10 Can I appeal an endorsement decision?**  
-No.  
-This is intentional, as participants are expected to choose **trustworthy evaluators** who will endorse them **honestly and fairly**.
-
-**11.11 Can I evaluate more than 5 people?**  
-Yes.  
-You must be evaluated by **exactly 5 people**, but you may **evaluate as many participants as you wish**.
-
-**11.12 What if I want to remove an endorsement or someone endorses me without my consent?**  
-You will be provided with a **separate form** that allows you to **remove an endorsement** made by a particular person.
-
-**11.13 What if I evaluate many people but struggle to find evaluators for myself?**  
-The teaching team **appreciates participants who evaluate many peers**.  
-In such cases, **teaching team members** can be requested to act as your evaluators.
-
-Additionally, **Silver and Golden Tickets** will be issued to selected participants.  
-- Participants receiving these tickets **do not need peer evaluation**
-- They will be **directly evaluated by Sudarshan sir and the teaching team**
-- Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
-
-**11.14 How do I earn a Silver ticket?**  
-Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
--->
 ## 10. Ejection Policy
 
 **10.1 What is the Ejection Policy?**  
 The Ejection Policy is a structured mechanism designed to maintain a high-energy, focused learning environment. It ensures that the internship cohort consists of actively engaged participants who are consistently making progress. The policy promotes momentum, accountability, and fairness across the cohort.
 
----
-
 **10.2 Why does the program have an Ejection Policy?**  
 The policy exists to protect the learning ecosystem. Collaborative activities such as peer-to-peer viva sessions, case study discussions, and cohort-based learning are meaningful only when participants are equally invested. The Ejection Policy ensures that program resources are dedicated to committed learners and that prolonged disengagement does not dilute the experience for others.
 
----
 
 **10.3 What are the types of ejection in this program?**  
 There are **two types of ejection**:
@@ -418,12 +289,9 @@ There are **two types of ejection**:
 - **Backward Eject (The Departure):**  
   Participants who remain persistently inactive or disengaged may be removed from the program to preserve the quality and seriousness of the cohort.
 
----
 
 **10.4 What does “Backward Eject” mean?**  
 Backward Eject refers to the removal of a participant from the internship due to sustained inactivity. This ensures that collaborative learning activities are conducted among participants who are actively contributing and progressing.
-
----
 
 **10.5 How is inactivity measured for Backward Ejection?**  
 Backward Ejection is triggered **only if both conditions are met simultaneously**:
@@ -433,27 +301,18 @@ Backward Ejection is triggered **only if both conditions are met simultaneously*
 
 This dual-condition check ensures fairness and prevents short-term slowdowns from being penalized.
 
----
-
 **10.6 Is the ejection process manual or automated?**  
 The process is **automated and data-driven**. An algorithm evaluates progress and cohort standing objectively, ensuring transparency and eliminating subjective bias or manual intervention.
-
----
 
 **10.7 Can I avoid being ejected from the program?**  
 Yes. Maintaining steady progress above the minimum threshold and remaining actively engaged with the ViBe platform ensures that your position in the program remains secure.
 
----
-
 **10.8 Is the Ejection Policy the same as the Discontinuation Policy?**  
 No. The **Discontinuation Policy** addresses prolonged inactivity at an administrative level. The **Ejection Policy** is a real-time, algorithm-based mechanism focused on maintaining cohort momentum, engagement health, and learning quality.
-
----
 
 **10.9 Can I appeal an ejection decision?**  
 No. Ejection decisions are **final and non-appealable**, as they are based on objective, automated criteria applied uniformly across the cohort.
 
----
 
 **10.10 Does being ejected affect future opportunities?**  
 Backward Ejection removes you from the current cohort only. Forward Ejection, however, may open pathways to advanced leadership roles or fellowship nominations based on demonstrated excellence and reflective learning practices.
