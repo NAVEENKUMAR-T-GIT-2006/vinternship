@@ -11,6 +11,8 @@ links:
       url: "https://writer.zoho.in/writer/open/tk5iv6abecfc364de41289e542b876c05f3e0"
     - label: "Milestones Document"
       url: "https://writer.zoho.in/writer/open/tk5iv07e84d64c700499b9023cd251b66ebc9"
+    - label: "ViBe Issue Reporting Form"
+      url: "https://forms.gle/g1AqdeUnuWgftrZ3A"
 ---
 
 [← Back]({{ site.baseurl }}/)
